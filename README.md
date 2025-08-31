@@ -26,4 +26,4 @@ Navigate to the folder where the file is saved.
 
 Run the program with the command:
 
-python guessing_game.py
+python Number_Guessing_Game.py
