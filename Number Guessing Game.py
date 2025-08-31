@@ -17,8 +17,9 @@ while tries > 0:
         print('Your tries left:', tries)
     else:
         print('Congratulations! You guessed the correct number:', number)
-        break  # Doğru tahmin olursa döngüden çık
+        break
     
     if tries == 0:
         print('Game over! The number was:', number)
+
         print('Better luck next time!')
